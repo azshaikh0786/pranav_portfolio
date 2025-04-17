@@ -11,15 +11,15 @@ const Education = () => {
       degree: "Bachelor of Technology in Computer Science",
       institution: "MIT Academy of Engineering",
       period: "2021 - 2025",
-      description: "Focused on cloud computing, software engineering, and web development.",
+      description: "Focused on computer security, software engineering, and web development.",
       achievements: [
         "CGPA: 8.96",
       ]
     },
     {
       degree: "Higher Secondary Education (12th Grade)",
-      institution: "JAI Hind Higher Secondary School",
-      period: "2018 - 2020",
+      institution: "Shri Gopinath Vidyalay",
+      period: "2020 - 2021",
       description: "Completed HSC with focus on Physics, Chemistry, and Mathematics.",
       achievements: [
         "Percentage: 70.46 %",
@@ -27,7 +27,7 @@ const Education = () => {
     },
     {
       degree: "Secondary School Education (10th Grade)",
-      institution: "Podar International School (CBSE)",
+      institution: "Shri Gopinath Vidyalay",
       period: "2018 - 2019",
       achievements: [
         "Percentage : 84.33 %",
